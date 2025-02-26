@@ -90,12 +90,12 @@ body {
 
 .news-unit-right p {
     font-size: 14px;
-    color: #555;
+    color: #ffffff;
 }
 
 .news-unit-right a {
     text-decoration: none;
-    color: #007BFF;
+    color: #57ffff;
 }
 
 .news-unit-right a:hover {
@@ -130,7 +130,7 @@ body {
 
 /* Teks di atas gambar */
 .content {
-    color: white;
+    color: #57ffff;
     border-radius: 5px;
 }
 
